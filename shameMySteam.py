@@ -2,7 +2,7 @@ from steam.steamid import SteamID
 import urllib3
 import json
 import random
-api='8F8613847230EEB3619FC6C78968A9CD'
+api='<insert your api here>'
 
 sickBurns=[
     'If I was your father I wouldn\'t come back after getting cigarrettes either because ',
